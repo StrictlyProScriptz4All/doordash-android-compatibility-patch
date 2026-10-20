@@ -20,4 +20,3 @@ By explicitly setting non-logistical hardware profile parameters to `android:req
 1. **Source Integration:** Merge the provided `AndroidManifest_Patch.xml` constraints into the main branch development pipeline.
 2. **Play Console Alignment:** Navigate to *Release > Device Catalog > Excluded Devices* and clear legacy flag restrictions matching modern device footprints.
 3. **Telemetry Tracking:** Deploy via a 1% staged rollout track to monitor crash logs on modern Android runtime environments before scaling globally.
-4. 
